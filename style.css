@@ -1,0 +1,72 @@
+body{
+    margin: 0%;
+}
+.navbar{
+    list-style:none;
+    margin: 0%;
+    padding: 0%;
+    text-shadow: wheat;
+    text-align: center;
+}
+
+.navbar li{
+    display:inline-block ;
+
+}
+
+
+
+
+
+
+
+
+.navbar a{
+    display:block;
+    padding:0 20px;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: floralwhite;
+    line-height: 50px;
+    transition-duration: 1s;
+}
+.navbar a:hover{
+   background-color:greenyellow;
+
+}
+body{
+    background-image: url('https://blog.britanico.edu.pe/wp-content/uploads/2020/10/oxford-learner-bookshelf.jpg     ');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+h1{
+ display:block; 
+ font-size: 4em; 
+ font-style: italic;
+ margin-top:0.67em; 
+ margin-bottom:0.67em;
+ margin-left:0 ;
+ margin-right: 0;
+ font-weight:bold;
+ color: whitesmoke;
+}
+.text{
+   margin-top: 17%;
+}
+.text h1{
+    color:black;
+    text-align: center;
+}
+.buttons{
+    margin-left: 40%;
+    margin: top 20px; ;
+}
+button{
+    width: 120px;
+    height: 40px;
+    border:1px solid whitesmoke;
+
+}
